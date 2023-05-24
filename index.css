@@ -28,6 +28,15 @@ body {
   background: var(--bg);
   overflow-x: hidden;
 }
+.eye {
+  width: 20%;
+  height: 20%;
+  margin-top: 20%;
+}
+.title {
+  text-align: center;
+  color: white;
+}
 .page {
   height: 100%;
   width: 100%;
@@ -195,4 +204,8 @@ a {
   width: 100%;
   position: relative;
   display: block;
+}
+.end_eye {
+  width: 20%;
+  height: 20%;
 }
